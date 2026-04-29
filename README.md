@@ -1,4 +1,5 @@
 # Weather-Driven-Sales-Automation 
+A weather-based automation system that adjusts sales and staffing recommendations in real time using OpenWeatherMap API, Zapier, and Gmail notifications.
 
 # Overview
 
