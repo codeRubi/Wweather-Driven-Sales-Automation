@@ -1,4 +1,4 @@
-# Wweather-Driven-Sales-Automation 
+# Weather-Driven-Sales-Automation 
 
 # Overview
 
